@@ -42,14 +42,14 @@ Welcome to my GitHub profile! I'm passionate about transforming raw data into ac
 **Languages:** Python, SQL, DAX  
 **Tools:** Power BI, Tableau, Excel, Alteryx, SSIS, Git  
 **Databases:** MS SQL Server, PostgreSQL, MySQL  
-**Other:** SharePoint, OCR Tools (Harness, Leverton), JIRA
+**Other:** SharePoint, OCR Tools (Harness, Leverton), Notion
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: manjeetsrana8@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manjeetsrana/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manjeet-singh-rana-324642131/)  
 - 🌐 [Portfolio (coming soon)]()
 
 ---
